@@ -1,3 +1,5 @@
+I am not actively maintaining this and only initially merged several pull requests of the original project. Please use this fork instead, which at least as of November 2024 is maintained: https://github.com/erikvw/pylabels2
+
 pylabels2
 =========
 
